@@ -8,15 +8,13 @@
 ###
 
 <div align="left">
-  <a href="aimeendong@gmail.com" target="_blank">
+  <a href="aimeendong@gmail.com" target="mailto:aimeendong@gmail.com?subject=Inquiry%20from%20GitHub">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=gmail&label=Gmail&color=495057&logoColor=white&labelColor=D14836&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=connect&logo=linkedin&label=LinkedIn&color=495057&logoColor=white&labelColor=0077B5&style=for-the-badge" height="28" alt="linkedin logo"  />
 </div>
 
-###
-
-<h4 align="left">Mission Statement:</h3>
+### Mission Statement:
 
 My work is rooted in my early experience with AmeriCorps VISTA, where I built sustainable data and reporting solutions for nonprofits. That mission-driven foundation continues to shape my passion for using data to advance organizational strategy and strengthen social impact.
 
